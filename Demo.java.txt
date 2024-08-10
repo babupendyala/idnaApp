@@ -1,3 +1,0 @@
-def objcreation{
-	//this is new project
-}
